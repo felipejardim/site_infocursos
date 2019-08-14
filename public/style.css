@@ -1,0 +1,260 @@
+    body{
+    background-image: url(img/bg_body.png);
+    background-repeat: repeat-x;
+    margin: 0px;
+
+}
+
+#corpo{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas: "head head head head" "nav nav nav nav" "oi section pesquisa tchau" "planilha planilha planilha planilha" "footer footer footer footer";
+    align-content: center;
+    
+
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+}
+
+#head-align {
+	clear: both;
+	height: 185px;
+	width: auto;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #999;
+}
+
+#head {
+	width: 970px;
+	clear: both;
+	height: 185px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#head.h2 {
+	font-family: sans-serif;
+}
+
+#logo {
+	float: left;
+	height: 155px;
+	min-width: 500px;
+	margin-top: 20px;
+}
+#logo span {
+	display: block;
+	margin-top: 40px;
+}
+#logo h2 {
+	margin-top: 4px;
+	margin-bottom: 8px;
+	font-size: 34px;
+}
+
+
+
+#logo .logomg {
+	float: left;
+	height: 145px;
+	width: 146px;
+	margin-right: 10px;
+}
+header{
+    grid-area: head
+}
+
+
+
+#menu{
+    grid-area: nav;
+    
+    clear: both;
+	height: 40px;
+	width: 910px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background: #010033; /* Old browsers */
+	background: -moz-linear-gradient(top,  #010033 1%, #011e51 50%, #00396e 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#010033), color-stop(50%,#011e51), color-stop(100%,#00396e)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #010033 1%,#011e51 50%,#00396e 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #010033 1%,#011e51 50%,#00396e 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #010033 1%,#011e51 50%,#00396e 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #010033 1%,#011e51 50%,#00396e 100%); /* W3C */
+
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#010033', endColorstr='#00396e',GradientType=0 ); /* IE6-9 */
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+    
+    float: left;
+	color: #FFF;
+}
+
+#menu ul{
+    float: left;
+	margin-top: 8px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: -20px;
+}
+
+#menu li {
+    display: inline-block;
+	font-size: 12px;
+    margin-right: 12px;
+}
+
+#menu a{
+    color: #FFF;
+}
+
+section{
+    grid-area: section;
+    float:left;
+	width: 490px;
+	margin-top: 30px;
+	margin-left: 25px;
+    text-align: justify; 
+    padding-left: 20px;  
+    margin-right: 20px; 
+}
+
+section p{
+    line-height: 1.42857143;
+    color: #333;
+    font-size: 14px
+}
+
+section h2{
+    color: #333;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+section ul{
+    float: left;
+	margin-left: -20px;
+	width: 470px;
+	margin-top: 0px;
+}
+section li {
+	font-size: 12px;
+	color: #333;
+	margin-bottom: 10px;
+	text-align: justify;
+}
+
+#pesquisa{
+    grid-area: pesquisa;
+    width: 400px;
+    margin-top: 30px;
+    font-size: 14px;
+    padding-right: 20px;
+    margin-left: 20px;
+}
+
+#pesquisa h2{
+    
+    align-self: left;
+    
+	background-position: right center;
+	padding-right: 25px;
+	background-repeat: no-repeat;
+    font-size: 22px;
+    font-weight: 500;
+    color: #002E63;
+    
+}
+
+#pesquisa h2 span{
+    background-image: url(../img/arrowicon.gif);
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+#pesquisa form{
+    background-color: rgb(242, 242, 242);
+    margin-top: 15px;
+    margin-right: 20px;
+    padding: 25px;
+}
+
+#pesquisa label{
+    font-weight: 700;
+    line-height: 20px;
+}
+
+#pesquisa input{
+    margin-bottom: 15px;
+    border-radius: 4px;
+    font-size: 14px;
+    height: 34px;
+    margin: 0px;
+}
+
+#planilhas{
+    display: none;
+}
+
+
+footer{
+    grid-area: footer;
+    background-image: url(img/bg_ext_rodape.jpg);
+    text-align: center;
+    height: 135px;
+		background-position: 0 -10px;
+			background-position-x: 0px;
+			background-position-y: -10px;
+		background-repeat: repeat-x;
+			background-repeat-x: repeat;
+            background-repeat-y: no-repeat;
+            
+            
+}
+
+footer div{
+    background-color: #F1F1F1;
+            clear: both;
+            height: 112px;
+            width: 100%;
+            background-image: url(../img/footerbg.jpg);
+            background-repeat: repeat-x;
+}
+
+footer div p{
+    margin: 0px;
+	font-size: 12px;
+}
+
+footer img{
+    margin: 0 auto;
+}
+
+
+@media (max-width: 965px){
+    #corpo{
+        grid-template-areas: "head" "nav" "section" "pesquisa" "footer";
+    }
+
+    header{
+        /*não vai, pq :'(  */
+    }
+
+    #menu{
+        width: 30em;
+        margin-left: 5px ;
+    }
+
+    footer {
+        width: 1vw
+    }
+    footer img{
+        
+    }
+
+}
