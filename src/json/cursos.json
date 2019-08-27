@@ -1,0 +1,1332 @@
+[
+ {
+   "Cod": 1,
+   "Campus": "ARAGUAIA/BARRA DO GARÇAS",
+   "Curso": "AGRONOMIA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 2,
+   "Campus": "ARAGUAIA/BARRA DO GARÇAS",
+   "Curso": "BIOMEDICINA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 3,
+   "Campus": "ARAGUAIA/BARRA DO GARÇAS",
+   "Curso": "CIÊNCIA DA COMPUTAÇÃO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 4,
+   "Campus": "ARAGUAIA/BARRA DO GARÇAS",
+   "Curso": "COMUNICAÇÃO SOCIAL - JORNALISMO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 5,
+   "Campus": "ARAGUAIA/BARRA DO GARÇAS",
+   "Curso": "DIREITO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 6,
+   "Campus": "ARAGUAIA/BARRA DO GARÇAS",
+   "Curso": "ENGENHARIA CIVIL - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 7,
+   "Campus": "ARAGUAIA/BARRA DO GARÇAS",
+   "Curso": "GEOGRAFIA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 8,
+   "Campus": "ARAGUAIA/BARRA DO GARÇAS",
+   "Curso": "LETRAS - LÍNGUA PORTUGUESA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 9,
+   "Campus": "CUIABÁ",
+   "Curso": "ADMINISTRAÇÃO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 10,
+   "Campus": "CUIABÁ",
+   "Curso": "ADMINISTRAÇÃO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 11,
+   "Campus": "CUIABÁ",
+   "Curso": "AGRONOMIA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 12,
+   "Campus": "CUIABÁ",
+   "Curso": "ARQUITETURA E URBANISMO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 13,
+   "Campus": "CUIABÁ",
+   "Curso": "CIÊNCIA DA COMPUTAÇÃO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 14,
+   "Campus": "CUIABÁ",
+   "Curso": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 15,
+   "Campus": "CUIABÁ",
+   "Curso": "CIÊNCIAS BIOLÓGICAS - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 16,
+   "Campus": "CUIABÁ",
+   "Curso": "CIÊNCIAS BIOLÓGICAS - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 17,
+   "Campus": "CUIABÁ",
+   "Curso": "CIÊNCIAS CONTÁBEIS - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 18,
+   "Campus": "CUIABÁ",
+   "Curso": "CIÊNCIAS CONTÁBEIS - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 19,
+   "Campus": "CUIABÁ",
+   "Curso": "CIÊNCIAS ECONÔMICAS - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 20,
+   "Campus": "CUIABÁ",
+   "Curso": "CIÊNCIAS ECONÔMICAS - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 21,
+   "Campus": "CUIABÁ",
+   "Curso": "CIÊNCIAS SOCIAIS - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 22,
+   "Campus": "CUIABÁ",
+   "Curso": "CIÊNCIAS SOCIAIS - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 24,
+   "Campus": "CUIABÁ",
+   "Curso": "COMUNICAÇÃO SOCIAL - JORNALISMO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 25,
+   "Campus": "CUIABÁ",
+   "Curso": "COMUNICAÇÃO SOCIAL - PUBLICIDADE E PROPAGANDA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 23,
+   "Campus": "CUIABÁ",
+   "Curso": "COMUNICAÇÃO SOCIAL  - RADIALISMO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 26,
+   "Campus": "CUIABÁ",
+   "Curso": "DIREITO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 27,
+   "Campus": "CUIABÁ",
+   "Curso": "DIREITO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 28,
+   "Campus": "CUIABÁ",
+   "Curso": "EDUCAÇÃO FÍSICA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 29,
+   "Campus": "CUIABÁ",
+   "Curso": "EDUCAÇÃO FÍSICA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 30,
+   "Campus": "CUIABÁ",
+   "Curso": "ENFERMAGEM - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 31,
+   "Campus": "CUIABÁ",
+   "Curso": "ENGENHARIA CIVIL - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 32,
+   "Campus": "CUIABÁ",
+   "Curso": "ENGENHARIA ELÉTRICA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 33,
+   "Campus": "CUIABÁ",
+   "Curso": "ENGENHARIA FLORESTAL - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 34,
+   "Campus": "CUIABÁ",
+   "Curso": "ENGENHARIA SANITARIA E AMBIENTAL - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 35,
+   "Campus": "CUIABÁ",
+   "Curso": "ESTATÍSTICA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 36,
+   "Campus": "CUIABÁ",
+   "Curso": "FILOSOFIA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 37,
+   "Campus": "CUIABÁ",
+   "Curso": "FILOSOFIA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 38,
+   "Campus": "CUIABÁ",
+   "Curso": "FILOSOFIA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "VESPERTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 39,
+   "Campus": "CUIABÁ",
+   "Curso": "FÍSICA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 40,
+   "Campus": "CUIABÁ",
+   "Curso": "FÍSICA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 41,
+   "Campus": "CUIABÁ",
+   "Curso": "FÍSICA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 42,
+   "Campus": "CUIABÁ",
+   "Curso": "GEOGRAFIA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 43,
+   "Campus": "CUIABÁ",
+   "Curso": "GEOGRAFIA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 44,
+   "Campus": "CUIABÁ",
+   "Curso": "GEOLOGIA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 45,
+   "Campus": "CUIABÁ",
+   "Curso": "HISTÓRIA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 46,
+   "Campus": "CUIABÁ",
+   "Curso": "HISTÓRIA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 47,
+   "Campus": "CUIABÁ",
+   "Curso": "HISTÓRIA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 48,
+   "Campus": "CUIABÁ",
+   "Curso": "LETRAS - LIBRAS - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "VESPERTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 49,
+   "Campus": "CUIABÁ",
+   "Curso": "LETRAS - PORTUGUÊS E LITERATURAS - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 50,
+   "Campus": "CUIABÁ",
+   "Curso": "LETRAS - PORTUGUÊS E LITERATURAS - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 51,
+   "Campus": "CUIABÁ",
+   "Curso": "LETRAS PORTUGUÊS E ESPANHOL E RESPECTIVAS LITERATURAS - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 52,
+   "Campus": "CUIABÁ",
+   "Curso": "LETRAS PORTUGUÊS E ESPANHOL E RESPECTIVAS LITERATURAS - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 53,
+   "Campus": "CUIABÁ",
+   "Curso": "LETRAS PORTUGUÊS E FRANCÊS - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 54,
+   "Campus": "CUIABÁ",
+   "Curso": "LETRAS PORTUGUÊS E FRANCÊS - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 55,
+   "Campus": "CUIABÁ",
+   "Curso": "LETRAS PORTUGUÊS E INGLÊS - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 56,
+   "Campus": "CUIABÁ",
+   "Curso": "LETRAS PORTUGUÊS E INGLÊS - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 57,
+   "Campus": "CUIABÁ",
+   "Curso": "MATEMÁTICA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 59,
+   "Campus": "CUIABÁ",
+   "Curso": "MEDICINA VETERINÁRIA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 58,
+   "Campus": "CUIABÁ",
+   "Curso": "MEDICINA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 61,
+   "Campus": "CUIABÁ",
+   "Curso": "MÚSICA - CANTO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "VESPERTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 62,
+   "Campus": "CUIABÁ",
+   "Curso": "MÚSICA - CLARINETE - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "VESPERTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 63,
+   "Campus": "CUIABÁ",
+   "Curso": "MÚSICA - COMPOSIÇÃO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "VESPERTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 64,
+   "Campus": "CUIABÁ",
+   "Curso": "MÚSICA - REGÊNCIA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "VESPERTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 65,
+   "Campus": "CUIABÁ",
+   "Curso": "MÚSICA - VIOLÃO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "VESPERTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 66,
+   "Campus": "CUIABÁ",
+   "Curso": "MÚSICA - VIOLINO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "VESPERTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 60,
+   "Campus": "CUIABÁ",
+   "Curso": "MÚSICA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "VESPERTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 67,
+   "Campus": "CUIABÁ",
+   "Curso": "NUTRIÇÃO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 68,
+   "Campus": "CUIABÁ",
+   "Curso": "PEDAGOGIA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 69,
+   "Campus": "CUIABÁ",
+   "Curso": "PEDAGOGIA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "VESPERTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 70,
+   "Campus": "CUIABÁ",
+   "Curso": "PSICOLOGIA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 71,
+   "Campus": "CUIABÁ",
+   "Curso": "QUÍMICA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 72,
+   "Campus": "CUIABÁ",
+   "Curso": "QUÍMICA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 73,
+   "Campus": "CUIABÁ",
+   "Curso": "SAÚDE COLETIVA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 74,
+   "Campus": "CUIABÁ",
+   "Curso": "SERVIÇO SOCIAL - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 75,
+   "Campus": "CUIABÁ",
+   "Curso": "SISTEMAS DE INFORMAÇÃO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 76,
+   "Campus": "CUIABÁ",
+   "Curso": "ZOOTECNIA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 77,
+   "Campus": "ARAGUAIA/PONTAL DO ARAGUAIA",
+   "Curso": "CIÊNCIAS BIOLÓGICAS - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 78,
+   "Campus": "ARAGUAIA/PONTAL DO ARAGUAIA",
+   "Curso": "EDUCAÇÃO FÍSICA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 79,
+   "Campus": "ARAGUAIA/PONTAL DO ARAGUAIA",
+   "Curso": "ENFERMAGEM - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 80,
+   "Campus": "ARAGUAIA/PONTAL DO ARAGUAIA",
+   "Curso": "ENGENHARIA DE ALIMENTOS - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 81,
+   "Campus": "ARAGUAIA/PONTAL DO ARAGUAIA",
+   "Curso": "FARMÁCIA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 82,
+   "Campus": "ARAGUAIA/PONTAL DO ARAGUAIA",
+   "Curso": "FÍSICA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 83,
+   "Campus": "ARAGUAIA/PONTAL DO ARAGUAIA",
+   "Curso": "MATEMÁTICA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 84,
+   "Campus": "ARAGUAIA/PONTAL DO ARAGUAIA",
+   "Curso": "QUÍMICA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 85,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "ADMINISTRAÇÃO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 86,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "ADMINISTRAÇÃO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 87,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "BIBLIOTECONOMIA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 88,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "CIÊNCIAS BIOLÓGICAS - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 89,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "CIÊNCIAS BIOLÓGICAS - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 90,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "CIÊNCIAS BIOLÓGICAS - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "VESPERTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 91,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "CIÊNCIAS CONTÁBEIS - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 92,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "CIÊNCIAS CONTÁBEIS - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 93,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "CIÊNCIAS ECONÔMICAS - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 94,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "ENFERMAGEM - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 95,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "ENGENHARIA AGRÍCOLA E AMBIENTAL - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 96,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "ENGENHARIA MECÂNICA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 97,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "GEOGRAFIA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 98,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "HISTÓRIA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 99,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "HISTÓRIA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 100,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "INFORMÁTICA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 101,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "LETRAS - LÍNGUA E LITERATURAS DE LÍNGUA INGLESA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 102,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "LETRAS - LÍNGUA PORTUGUESA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 103,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "LETRAS - LÍNGUA PORTUGUESA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "VESPERTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 104,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "MATEMÁTICA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 105,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "MATEMÁTICA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "VESPERTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 106,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "MEDICINA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 107,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "PEDAGOGIA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "MATUTINO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 108,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "PSICOLOGIA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 109,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "SISTEMAS DE INFORMAÇÃO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 110,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "ZOOTECNIA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 111,
+   "Campus": "SINOP",
+   "Curso": "AGRONOMIA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 112,
+   "Campus": "SINOP",
+   "Curso": "CIÊNCIAS NATURAIS E MATEMÁTICA - FÍSICA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 113,
+   "Campus": "SINOP",
+   "Curso": "CIÊNCIAS NATURAIS E MATEMÁTICA - MATEMÁTICA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 114,
+   "Campus": "SINOP",
+   "Curso": "CIÊNCIAS NATURAIS E MATEMÁTICA - QUÍMICA - LICENCIATURA",
+   "Grau": "LICENCIATURA",
+   "Turno": "NOTURNO",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 115,
+   "Campus": "SINOP",
+   "Curso": "ENFERMAGEM - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 116,
+   "Campus": "SINOP",
+   "Curso": "ENGENHARIA AGRÍCOLA E AMBIENTAL - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 117,
+   "Campus": "SINOP",
+   "Curso": "ENGENHARIA FLORESTAL - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 118,
+   "Campus": "SINOP",
+   "Curso": "FARMÁCIA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 120,
+   "Campus": "SINOP",
+   "Curso": "MEDICINA VETERINÁRIA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 119,
+   "Campus": "SINOP",
+   "Curso": "MEDICINA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 121,
+   "Campus": "SINOP",
+   "Curso": "ZOOTECNIA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 122,
+   "Campus": "VÁRZEA GRANDE",
+   "Curso": "ENGENHARIA DE COMPUTAÇÃO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 123,
+   "Campus": "VÁRZEA GRANDE",
+   "Curso": "ENGENHARIA DE CONTROLE E AUTOMAÇÃO - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 124,
+   "Campus": "VÁRZEA GRANDE",
+   "Curso": "ENGENHARIA DE MINAS - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 125,
+   "Campus": "VÁRZEA GRANDE",
+   "Curso": "ENGENHARIA DE TRANSPORTES - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 126,
+   "Campus": "VÁRZEA GRANDE",
+   "Curso": "ENGENHARIA QUÍMICA - BACHARELADO",
+   "Grau": "BACHARELADO",
+   "Turno": "INTEGRAL",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 127,
+   "Campus": "TODOS OS CAMPI",
+   "Curso": "TODOS OS CURSOS",
+   "Grau": "TODOS OS GRAIS OS GRAIS",
+   "Turno": "TODOS OS PERIODOS",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 128,
+   "Campus": "CUIABÁ",
+   "Curso": "TODOS OS CURSOS",
+   "Grau": "TODOS OS GRAIS OS GRAIS",
+   "Turno": "TODOS OS PERIODOS",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 129,
+   "Campus": "RONDONÓPOLIS",
+   "Curso": "TODOS OS CURSOS",
+   "Grau": "TODOS OS GRAIS OS GRAIS",
+   "Turno": "TODOS OS PERIODOS",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 130,
+   "Campus": "SINOP",
+   "Curso": "TODOS OS CURSOS",
+   "Grau": "TODOS OS GRAIS OS GRAIS",
+   "Turno": "TODOS OS PERIODOS",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 131,
+   "Campus": "VÁRZEA GRANDE",
+   "Curso": "TODOS OS CURSOS",
+   "Grau": "TODOS OS GRAIS OS GRAIS",
+   "Turno": "TODOS OS PERIODOS",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 132,
+   "Campus": "ARAGUAIA/PONTAL DO ARAGUAIA",
+   "Curso": "TODOS OS CURSOS",
+   "Grau": "TODOS OS GRAIS OS GRAIS",
+   "Turno": "TODOS OS PERIODOS",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "Cod": 133,
+   "Campus": "ARAGUAIA/BARRA DO GARÇAS",
+   "Curso": "TODOS OS CURSOS",
+   "Grau": "TODOS OS GRAIS OS GRAIS",
+   "Turno": "TODOS OS PERIODOS",
+   "Ano": 2017,
+   "FIELD7": "",
+   "FIELD8": ""
+ }
+]

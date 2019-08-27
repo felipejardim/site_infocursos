@@ -1,7 +1,8 @@
-    body{
+body{
     background-image: url(img/bg_body.png);
     background-repeat: repeat-x;
     margin: 0px;
+    width: 100%;
 
 }
 
@@ -26,7 +27,7 @@
 }
 
 #head {
-	width: 970px;
+	max-width: 970px;
 	clear: both;
 	height: 185px;
 	margin-top: 0px;
@@ -41,7 +42,7 @@
 #logo {
 	float: left;
 	height: 155px;
-	min-width: 500px;
+	min-width: 430px;
 	margin-top: 20px;
 }
 #logo span {
@@ -172,29 +173,37 @@ section li {
 }
 
 #pesquisa h2 span{
-    background-image: url(../img/arrowicon.gif);
+    background-image: url(img/arrowicon.gif);
     background-repeat: no-repeat;
     background-position: right center;
 }
 
-#pesquisa form{
+#pesquisa #form{
     background-color: rgb(242, 242, 242);
     margin-top: 15px;
     margin-right: 20px;
     padding: 25px;
+    padding-top:5px; 
 }
 
-#pesquisa label{
+#pesquisa #form .legenda{
     font-weight: 700;
     line-height: 20px;
+    margin-top: 15px;
 }
 
-#pesquisa input{
+#pesquisa #input{
     margin-bottom: 15px;
     border-radius: 4px;
     font-size: 14px;
     height: 34px;
     margin: 0px;
+}
+
+#pesquisa button{
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 5px;
 }
 
 #planilhas{
@@ -214,6 +223,8 @@ footer{
 			background-repeat-x: repeat;
             background-repeat-y: no-repeat;
             
+
+            
             
 }
 
@@ -222,7 +233,7 @@ footer div{
             clear: both;
             height: 112px;
             width: 100%;
-            background-image: url(../img/footerbg.jpg);
+            background-image: url(img/footerbg.jpg);
             background-repeat: repeat-x;
 }
 
@@ -233,28 +244,33 @@ footer div p{
 
 footer img{
     margin: 0 auto;
+    width: 100%;
+    max-width: 972px;
 }
 
 
 @media (max-width: 965px){
     #corpo{
-        grid-template-areas: "head" "nav" "section" "pesquisa" "footer";
-    }
-
-    header{
-        /*não vai, pq :'(  */
+        grid-template-areas: "head head head head" "nav nav nav nav" "section section section section" "pesquisa pesquisa pesquisa pesquisa" "planilha planilha planilha planilha" "footer footer footer footer";
     }
 
     #menu{
-        width: 30em;
-        margin-left: 5px ;
+        width: 90vw;
     }
 
-    footer {
-        width: 1vw
+    section{
+        width: 88vw;
+        margin: 0 auto;
+        padding: 1rem;
+        display: none;
     }
-    footer img{
-        
+
+    section ul{
+        display: inline-block
+    }
+
+    section p{
+        display: inline-block;
     }
 
 }

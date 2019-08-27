@@ -6,23 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title> UFMT - Infocursos</title>
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"/>
-    <script src="https://kit.fontawesome.com/c7a150156c.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <!--BARRA BRASIL-->
-    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
-            <ul id="menu-barra-temp" style="list-style:none;">
-              <li style="display:inline; float:left;apadding-right:10px; amargin-right:10px; border-right:1px solid #EDEDED">
-                  <a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a>
-              </li>
-              <li>
-                 <a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a>
-              </li>
-            </ul>
-          </div>
+    
 
     <!--CORPO DO SITE-->
     <div id="corpo">
@@ -46,9 +36,9 @@
 
         <nav id="menu">
             <ul>
-                <li><a href="https://www.ufmt.br/ufmt/site/"> <i class="fas fa-home"></i> Portal da UFMT </a></li>
-                <li><a href="#" id="sobreNav"> <i class="fas fa-question-circle"></i> Sobre o Infocursos</a></li>
-                <li><a href="#" id="metodologiaNav"> <i class="fas fa-info-circle"></i> Metodologia</a></li>
+                <li><a href="https://www.ufmt.br/ufmt/site/"> <i class="glyphicon glyphicon-home"></i> Portal da UFMT </a></li>
+                <li><a href="#" id="sobreNav"> <i class="glyphicon glyphicon-question-sign"></i> Sobre o Infocursos</a></li>
+                <li><a href="#" id="metodologiaNav"> <i class="glyphicon glyphicon-info-sign"></i> Metodologia</a></li>
             </ul>
         </nav>
 
@@ -69,32 +59,17 @@
                 <p>Tendo em vista a necessidade de utilização de dados institucionais fidedignos, optou-se por utilizar os dados consolidados e auditados extraídos do Censo da Educação Superior. Considerando que, algumas informações necessárias ao projeto “INFOCURSOS” não constam no Censo da Educação Superior, realizou-se o cruzamento por meio do “Registro Geral do aluno - RGA” com a base de dados do Sistema de Informações de Gestão Acadêmica – SIGA, para complementação.</p>
         </section>
 
-        <div id="pesquisa">
+        <div id="pesquisa" >
             <h2>Pesquisar Curso <span>&nbsp;&nbsp;&nbsp;</span></h2>
             <span>Complete os campos abaixo para acessar os indicadores.</span>
 
-            <form action="">
-                <label for="">Campus: </label><br>
-                <input type="text" name="" id=""><br>
-
-                <label for="">Curso: </label><br>
-                <input type="text" name="" id=""><br>
-
-                <label for="">Turno: </label><br>
-                <input type="text" name="" id=""><br>
-
-                <label for="">Ano: </label><br>
-                <input type="text" name="" id=""><br>
-
-                <button>Pesquisar</button>
-                <button>Limpar dados</button>
-            </form>
+            <div id="form"></div>
         </div>
 
         <div id="planilhas"></div>
 
-        <footer>
-                <img src="img/rodape_animado.gif" alt="Imagem animada, viola de coxo e Tuiui�">
+        <footer id="footer">
+                <img src="img/rodape_animado.gif" alt="Imagem animada, viola de coxo e Tuiui�" >
 
             <div id="rodape">
                     <p><br><br>
@@ -109,8 +84,7 @@
     </div> <!--CORPO-->
 
     <!--SCRIPT PARA O FUNCIONAMENTO DA BARRA BRASIL-->
-    <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js" type="text/javascript"></script>
-    <script src="js/aba.js"></script>
+        <script src="js/aba.js"></script>
 
 </body>
 </html>
