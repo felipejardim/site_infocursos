@@ -34,11 +34,11 @@ let options = (dados)=>{
     return algo
 }
 
-function limpacampo(pora){
-    pora.campus.current.state.value = {label:'', value:''}
-    pora.curso.current.state.value = {label:'', value:''}
-    pora.turno.current.state.value = {label:'', value:''}
-    pora.ano.current.state.value = {label:'', value:''}
+function limpacampo(obj){
+    obj.campus.current.state.value = {label:'', value:''}
+    obj.curso.current.state.value = {label:'', value:''}
+    obj.turno.current.state.value = {label:'', value:''}
+    obj.ano.current.state.value = {label:'', value:''}
 }
 
 
@@ -49,27 +49,27 @@ export default function App(){
     let [teste, setteste] = useState(1)
     console.log(lista)
 
-    let pora ={campus: useRef(), curso: useRef(), turno: useRef(), ano: useRef()}
-    window.pora=pora
+    let ref ={campus: useRef(), curso: useRef(), turno: useRef(), ano: useRef()}
+    window.ref=ref
 
 
     useEffect(()=>{setLista(options(dados));console.log('oi')}, [teste])
 
     return <>
         <label className="legenda">Campus:</label>
-        <Select ref={pora.campus} options={lista.campi} onChange={(e)=>{setDados(Object.assign(dados,{campus: e.value}));setteste(++teste)}} placeholder="" className="select"/>
+        <Select ref={ref.campus} options={lista.campi} onChange={(e)=>{setDados(Object.assign(dados,{campus: e.value}));setteste(++teste)}} placeholder="" className="select"/>
         
         <label className="legenda">Curso:</label>
-        <Select ref={pora.curso} options={lista.cursos} onChange={(e)=>{setDados(Object.assign(dados,{curso: e.value}));setteste(++teste)}} placeholder="" className="select"/>
+        <Select ref={ref.curso} options={lista.cursos} onChange={(e)=>{setDados(Object.assign(dados,{curso: e.value}));setteste(++teste)}} placeholder="" className="select"/>
         
         <label className="legenda">Turno:</label>
-        <Select ref={pora.turno} options={lista.turnos} onChange={(e)=>{setDados(Object.assign(dados,{turno: e.value}));setteste(++teste)}} placeholder="" className="select"/>
+        <Select ref={ref.turno} options={lista.turnos} onChange={(e)=>{setDados(Object.assign(dados,{turno: e.value}));setteste(++teste)}} placeholder="" className="select"/>
         
         <label className="legenda">Ano:</label>
-        <Select ref={pora.ano}  options={lista.anos} onChange={(e)=>{setDados(Object.assign(dados,{ano: e.value}));setteste(++teste)}} placeholder="" className="select"/>
+        <Select ref={ref.ano}  options={lista.anos} onChange={(e)=>{setDados(Object.assign(dados,{ano: e.value}));setteste(++teste)}} placeholder="" className="select"/>
 
-        <button type="button" onClick={()=>console.log(dados)} className="btn btn-success">Pesquisar</button>
-        <button type="button" onClick={()=>{setDados({campus:'',curso:'',turno:'',ano:''}); setteste(++teste); limpacampo(pora)}} className="btn btn-primary">Limpar Dados</button>
+        <button type="button" onClick={()=>{console.log(dados);window.dados = dados}} className="btn btn-success">Pesquisar</button>
+        <button type="button" onClick={()=>{setDados({campus:'',curso:'',turno:'',ano:''}); setteste(++teste); limpacampo(ref)}} className="btn btn-primary">Limpar Dados</button>
         </>
         
     
