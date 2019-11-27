@@ -1,0 +1,35 @@
+{
+    "Campus" : "Várzea Grande",
+    "Curso" : "Engenharia de Computação",
+    "Graf" : [
+        {
+            "img":"BIN/122.jpeg",
+            "legenda":"Distribuição de Idades - Alunos Ingressantes"
+        },
+        {
+            "img":"BIM/122.jpeg",
+            "legenda":"Distribuição das Idades - Alunos Matriculados"
+        },
+        {
+            "img":"PIN/122.jpeg",
+            "legenda":"Distribuição dos Alunos Ingressantes por Sexo"
+        },
+        {
+            "img":"PIM/122.jpeg",
+            "legenda":"Distribuição dos Alunos Matriculados por Sexo"
+        },
+        {
+            "img":"BAR/122.jpeg",
+            "legenda":"Distribuição dos Alunos Ingressantes por Tipo de Ingresso"
+        },
+        {
+            "img":"PIT/122.jpeg",
+            "legenda":"Distribuição dos Alunos Ingressantes por Tipo de Vaga"
+        },
+        {
+            "img":"SIS/122.jpeg",
+            "legenda":"Nota de Corte no SISU por Tipo de Vaga"
+        } 
+        
+    ]
+}

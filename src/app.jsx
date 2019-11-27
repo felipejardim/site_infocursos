@@ -3,8 +3,10 @@ import Select from 'react-select'
 
 
 const jason = require('../src/json/cursos.json')
+const jason2 = require('../src/json/placeholder.json')
 
 window.jason = jason
+window.jason2 = jason2
 
 let options = (dados)=>{
     let filtro = jason
